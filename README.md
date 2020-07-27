@@ -1,2 +1,2 @@
 # TINC-PRO-API-Tests
-Python script to test all TINC PRO Back-end API Endpoints.
+Python script to test all TINC PRO Back-end API Endpoints using Pytest.
